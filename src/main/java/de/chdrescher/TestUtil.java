@@ -8,6 +8,8 @@ import java.util.*;
 
 /**
  * Utility class that provides test support methods based on reflection
+ * @Author Christian Drescher
+ * @License Apache Public License 2.0
  */
 public class TestUtil {
 
