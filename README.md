@@ -1,3 +1,7 @@
+
+
+![Travis CI status](https://travis-ci.org/michaelklishin/quartz-mongodb.svg?branch=master "Travis CI status")
+
 # test-util
 Utility that provides test support methods based on reflection
 
@@ -14,6 +18,7 @@ public class GetterSetterTest {
     }
 }
 ```
+
 
 # Copyright & License
 
