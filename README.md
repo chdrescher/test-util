@@ -1,6 +1,5 @@
 
-
-[![Build Status](https://travis-ci.org/michaelklishin/quartz-mongodb.svg?branch=master)](https://travis-ci.org/michaelklishin/quartz-mongodb)
+[![Build Status](https://travis-ci.org/chdrescher/test-util.svg?branch=master)](https://travis-ci.org/chdrescher/test-util)
 
 # test-util
 Utility that provides test support methods based on reflection
